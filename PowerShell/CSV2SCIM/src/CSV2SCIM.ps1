@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Generate and send user data to Microsoft Entra ID Provisioning /bulkUpload API endpoint.
+    Generate and send user data to Microsoft Entra ID Provisioning / bulkUpload API endpoint.
 
 .DESCRIPTION
     There are 5 execution modes:
